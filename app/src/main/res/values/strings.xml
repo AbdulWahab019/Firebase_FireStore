@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase Setup</string>
+    <string name="name">Name</string>
+    <string name="father_name">Father Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="institute">Institute</string>
+    <string name="submit">Submit</string>
+    <string name="user_information">User Information</string>
+    <string name="read_data">Read Data</string>
+</resources>
